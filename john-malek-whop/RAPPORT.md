@@ -302,13 +302,16 @@ Structure : **[situation sociale relatable] + [« so I » / « but »] + [retour
 
 ## 13 — ANALYSE DES COMMENTAIRES
 
-> Les commentaires des reels de la campagne ne sont **pas** accessibles publiquement sans connexion → **N/D**. Analyse faite sur les sources disponibles.
+> Les commentaires des reels de la campagne ne sont **pas** accessibles publiquement sans connexion → **N/D**. Analyse faite sur les commentaires YouTube de 4 vidéos de John (Sandwich, « $200 tip », « Honesty = +$1000 », « You know what he's saying »), complétés par les captures envoyées.
 
 | Source | Catégories dominantes | Lecture |
 |---|---|---|
 | YT « Sandwich » (491 comm., 40 lus) | Admiration (« so generous », « Big W for John Malek ») ≈ 90 % ; participation au concours (« here for that 5k ») ; 1 témoignage (« I dropped out of college after seeing this ») ; 1 cynique (« Genius marketing forreal ») | [INT] Commentaires **non conversationnels** ; une forte part provient de **comptes de clippeurs** → signal pollué |
 | IG @johnmalek concours | Commentaires = mot-clé imposé (« SPIDERMAN », « LOVE ») → jusqu'à **0,76 % comm./vue** | [INT] Mécanique de participation, pas de débat |
 | C2 (légende morale) | N/D | [HYP] Format le plus propice aux **désaccords** et aux **réponses entre utilisateurs** (« bro is right » vs « soft ») |
+| YT Short « $200 tip » (34 313 vues, 30 comm. tous lus) | 15 comptes sur 29 fils ont « Malek » ou « clip » dans leur nom, tous entre le 5 juin et le 5 juillet. Vrais commentaires (avril) : « left him hanging » (5 likes), « i feel bad for the guy next to the girl » (4), « bro was flabbergasted » (3), « What happened to your old videos ?? » (7 likes, le plus liké, sans réponse) ; deux commentaires sur la reconnaissance (« They then recognize him ») | [INT] Les vrais spectateurs réagissent à la **réaction du récepteur** et au moment de **reconnaissance**, pas à la générosité |
+| YT Short « Honesty = +$1000 » (51 056 vues, 58 comm., 56 lus) | 29 des 42 fils viennent de 28 comptes avec « Malek » ou « clip » dans le nom (éloges de 1 à 8 mots). 3 vrais fils, le jour de la sortie : erreur de sous-titre (« she said yeah and the subtitles said no », **23 likes**, 7 réponses), demande d'argent (« could I get some grad money ! », 7 likes, 6 réponses qui tournent à la dispute), « Don't like swearing tho » (1 like) | [INT] Ce qui fait réagir : **une erreur de sous-titre**, **une friction morale**, **un détail qui dérange** |
+| YT Short « You know what he's saying » (26 239 vues, 19 comm.) | Quatre lectures différentes de la blague (« jail time » 8 likes, « the girl cheated » 4, « coming out surprise party », « I don't get it brother » 5 likes avec **13 réponses**, dont une dispute). Aucun des 9 auteurs visibles n'est un compte de clippeur | [INT] La légende demande une **inférence** ; la confusion ne génère ni likes ni partages (0,07 % de commentaires par vue) |
 
 **Réponses aux questions :**
 
@@ -316,6 +319,15 @@ Structure : **[situation sociale relatable] + [« so I » / « but »] + [retour
 - *Quels sujets poussent à répondre aux autres ?* → [HYP] les légendes qui prennent parti (C2).
 - *Quels sujets provoquent des désaccords ?* → [HYP] « hanging out just to crack » (C6), « freakier than me » (C5).
 - *Quels sujets provoquent des témoignages ?* → [OBS] générosité / décrochage scolaire (« I dropped out of college after seeing this »).
+
+### Ce que les commentaires YouTube de John disent vraiment
+
+- **[OBS] Beaucoup de commentaires viennent de pages de clippeurs.** 11 comptes sont présents sous les deux Shorts « $200 tip » et « Honesty » (dont `Bobbyclipsz`, `DrewClipsCentral`, `JMalekClipsArchive`, `johnmalek.highlights`, `johnmalekxf`). Ces deux Shorts sont les « top clip 1 » et « top clip 3 » du brief, et leur vague de commentaires date de juin (4 juin → 29 juin). **[HYP]** Des clippeurs qui viennent étudier les exemples du brief pourraient l'expliquer ; je ne l'ai pas vérifié, et rien n'indique une irrégularité (le brief exige des pages dédiées à John Malek).
+- **[OBS] Les vrais spectateurs réagissent à autre chose que la générosité** : une erreur de sous-titre (23 likes, le commentaire le plus liké de « Honesty »), une demande d'argent qui crée une dispute, la réaction du récepteur et le moment où il reconnaît John, un détail qui dérange (les jurons), une blague qu'on ne comprend pas.
+- **[OBS] Analyse visuelle du Short « $200 tip »** (une seule lecture automatique, recoupée avec la transcription) : les **deux** employés reçoivent un pourboire (le caissier à 00:15, la caissière à 00:27), personne n'est laissé de côté, donc aucun risque avec la règle « keep John looking good ». La vidéo se coupe à 00:33, au milieu de la phrase de John, au moment où le caissier le reconnaît (« Is that John Malek ? »). Le titre affiché est « I tipped the workers $200 and this is what happened next… » et les sous-titres d'action sont entre astérisques (*making payment*, *tipped him*, *tipped her*), comme dans les shorts officiels du dossier Giveaway. Je n'ai pas retrouvé le fichier source dans le Drive. Le commentaire « left him hanging » reste inexpliqué.
+- **[INT] Règle tirée de ces 4 vidéos** : décider quoi clipper à partir des commentaires YouTube de John n'est pas fiable. Le meilleur signal reste le top 10 de la campagne (§10).
+- **[INT] Trois règles à retenir pour tes clips** : (1) un inconnu doit comprendre la légende en 5 secondes, sans inférence ; (2) relire chaque sous-titre contre l'audio, car une erreur déclenche des commentaires, mais pas ceux qu'on cherche ; (3) aucun juron audible ou écrit.
+- **[HYP] À tester** : les hooks qui provoquent une réaction (une demande, un dilemme moral, une coupe au moment de la reconnaissance) sur les formats giveaway. Les memes POV du top 10 restent la priorité.
 
 ---
 
@@ -701,6 +713,9 @@ Le plafond est de **400 $/clip = 266 667 vues**. Au-delà, les vues ne paient pl
 - [ ] 9:16, 1080p, texte hors zones de boutons
 - [ ] Légende du post avec **@johnmalek** (IG) ou **@johnmalek100** (TT) — jamais l'inverse
 - [ ] Engagement ≥ 0,20 % · post maintenu 30 jours · aucun boost payant
+- [ ] Un inconnu comprend la légende en 5 secondes, sans inférence (cf. §13)
+- [ ] Sous-titres relus contre l'audio, aucune erreur
+- [ ] Aucun juron audible ou écrit (couper ou bipper)
 
 ---
 
