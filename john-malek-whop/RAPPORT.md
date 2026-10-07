@@ -62,6 +62,7 @@ Footage hors dossier officiel · NSFW / violent / hors sujet · spam (même vid�
 | Frais plateforme | `fee: 800` dans la config | [HYP] 8 % |
 
 **Combien de vidéos restent à produire ?** Aucun quota. Mais pour vider 7 628 $ :
+
 - **≈ 5,09 M vues payées** au CPM de 1,50 $ (sans plafond) ;
 - soit **19 clips plafonnés** (≥ 267 K vues chacun), **ou** ~76 clips à 67 K vues, **ou** ~890 clips à la moyenne « hors top 10 » (5,7 K vues). [INT]
 - [INT] Au rythme des 7 derniers jours (≈ 1,2 M vues/sem., partiellement plafonnées), le budget tiendrait **plusieurs semaines** ; mais un seul clip viral peut consommer 400 $ en 48 h (pics du 14/09 : 1,95 M vues en 1 jour ; du 29/09 : 0,81 M). **Il faut publier maintenant**, avant que d'autres clippeurs n'épuisent le pool.
@@ -219,6 +220,7 @@ Paiement théorique du top 10 avec plafond : 400 + 400 + 400 + 400 + 400 + 288,5
 
 ### Les 3 clips à décortiquer
 **C1 — 3 162 220 vues (le plus gros clip de la campagne)**
+
 - 0-1 s : John sur un canapé, regard moqueur vers un ami hors champ (= « bro mocks you »).
 - 1-6 s : coupe sur l'extérieur, John avec **4 filles** et un ballon de football américain (= la « preuve »).
 - 6-11 s : retour intérieur, John se retourne vers la caméra avec un sourire en coin et sort par une porte (= payoff + boucle).
@@ -226,11 +228,13 @@ Paiement théorique du top 10 avec plafond : 400 + 400 + 400 + 400 + 400 + 288,5
 - **[INT] Pourquoi ça marche :** la légende pose un **enjeu** (humiliation), le montage apporte une **preuve visuelle** (B-roll filles), le sourire final est le **payoff**. Référence à la culture meme « coaches don't play ». Le spectateur relance pour relire la légende → boucle.
 
 **C2 — 1 131 760 vues**
+
 - Plan fixe de John de nuit sur un canapé, qui parle (voix couverte par la musique).
 - Légende longue de **5 lignes** qui prend **position** (« The way we speak about women says a lot about the type of men we're becoming »).
 - **[INT]** Seul clip « moral » du top : il déclenche **débat + partage** (« envoie à ton pote »). Prouve qu'une légende longue fonctionne si elle porte une opinion forte. John apparaît comme le « bon gars » → conforme à la règle « keep John looking good ».
 
 **C3 — 458 331 vues : la preuve que la déclinaison paie**
+
 - **Même rush que C1**, légende quasi identique (« four 10/10s »), publiée **13 jours après** par le même clippeur.
 - **[INT]** Un concept gagnant peut être **re-décliné** avec une variation (chiffre, mot) et refaire 15 % de l'original. **C'est la tactique de rakashii (71 soumissions).**
 
@@ -261,6 +265,7 @@ Paiement théorique du top 10 avec plafond : 400 + 400 + 400 + 400 + 400 + 288,5
 
 ### Banque de légendes à tester (construites sur la structure des gagnants, pas copiées)
 Structure : **[situation sociale relatable] + [« so I » / « but »] + [retournement en faveur de John]**
+
 1. « when bro says you've changed but you just stopped answering at 2am »
 2. « how i look at bro when he says he's "done with women" for the 4th time this week »
 3. « when shawty says "you're not like other guys" but you're literally exactly like other guys »
@@ -306,6 +311,7 @@ Structure : **[situation sociale relatable] + [« so I » / « but »] + [retour
 | C2 (légende morale) | N/D | [HYP] Format le plus propice aux **désaccords** et aux **réponses entre utilisateurs** (« bro is right » vs « soft ») |
 
 **Réponses aux questions :**
+
 - *Quels sujets déclenchent des conversations ?* → [HYP] opinions sur les relations (C2) et situations dating ambiguës (C4, C6).
 - *Quels sujets poussent à répondre aux autres ?* → [HYP] les légendes qui prennent parti (C2).
 - *Quels sujets provoquent des désaccords ?* → [HYP] « hanging out just to crack » (C6), « freakier than me » (C5).
@@ -316,6 +322,7 @@ Structure : **[situation sociale relatable] + [« so I » / « but »] + [retour
 ## 14 — ANALYSE DES PARTAGES
 
 Partages : **N/D** sur toutes les sources publiques. [INT] Mécanismes de partage probables :
+
 - **« C'est toi ça »** → légendes « bro » (C1, C7) : on tague / envoie à l'ami concerné.
 - **« Envoie à ton pote qui a besoin de l'entendre »** → C2.
 - **« Regarde ce mec qui donne 500 $ »** → giveaways (émotion positive).
@@ -578,6 +585,7 @@ Vlog Sandwich : 04:23-04:57 (blague dessert sexuelle), 05:08-05:23 (Epstein), 05
 | **Giveaway / réaction** | Le montant + la situation (`$500 TIP 💵`, `HE DIDN'T EXPECT THIS`) | 2-3 blocs | Haut pour le contexte, centre pour le montant |
 
 **Méthode rapide (3 min) :**
+
 1. Écoute le passage une fois, note sur ton téléphone les 3-5 phrases qui comptent.
 2. Crée **un** texte au bon style → **duplique-le** (`Dupliquer`) au lieu d'en recréer un.
 3. Modifie le texte du duplicata, glisse-le sous la phrase correspondante.
@@ -608,6 +616,7 @@ Vlog Sandwich : 04:23-04:57 (blague dessert sexuelle), 05:08-05:23 (Epstein), 05
 ## 26 — WORKFLOW DE PRODUCTION
 
 ```
+
 1. SOURCE      → 1 dossier Drive (ex. Talking Head) ou 1 vlog brut
 2. REPÉRER     → regarder en x1,5 ; noter 5-10 passages (timestamp début/fin + 1 mot-clé)
 3. SCORER      → grille /100 (§21) ; garder ≥ 75
