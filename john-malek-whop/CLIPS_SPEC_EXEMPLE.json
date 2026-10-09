@@ -1,0 +1,32 @@
+{
+  "sources_dir": "C:/clips/sources",
+  "out_dir": "C:/clips/out",
+  "clips": [
+    {
+      "name": "clip1_let-the-function-speak",
+      "caption": "when bro says i'm washed so i take him to one function and let the function speak for itself",
+      "font": 70,
+      "card": {"full": true, "maxw": 940},
+      "segments": [
+        {"src": "meme_5.mp4",  "ss": 0, "dur": 2, "pan": 0.412, "card_y": [0.512, 0.775]},
+        {"src": "meme_11.mp4", "ss": 0, "dur": 4, "pan": 0.731, "card_y": [0.420, 0.590]},
+        {"src": "meme_3.mp4",  "ss": 0, "dur": 1, "pan": 0.5,   "card_y": [0.541, 0.828]}
+      ],
+      "audio": {"mode": "source", "src": "meme_11.mp4", "ss": 0}
+    },
+    {
+      "name": "clip2_respect-the-grind",
+      "caption": "when bro clowns a minimum wage worker, i remind him they clock in every day while he asks his mom for gas money",
+      "font": 62,
+      "segments": [{"src": "talk_10.mp4", "ss": 1.25, "dur": 9, "pan": 0.455}],
+      "audio": {"mode": "silent"}
+    },
+    {
+      "name": "clip3_calm-on-speaker",
+      "caption": "me on speaker staying calm while she explains why everything is my fault",
+      "font": 68,
+      "segments": [{"src": "talk_1.mp4", "ss": 6.0, "dur": 6.72, "pan": 0.5}],
+      "audio": {"mode": "source", "src": "talk_1.mp4", "ss": 6.0, "mute": [[2.33, 2.84]]}
+    }
+  ]
+}
